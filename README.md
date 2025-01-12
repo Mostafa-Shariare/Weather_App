@@ -28,7 +28,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https: https://github.com/Mostafa-Shariare/Weather_App/tree/main
 
 Navigate to the project directory:
 
